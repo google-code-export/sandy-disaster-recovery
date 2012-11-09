@@ -1,0 +1,9 @@
+#summary The main documentation page with links to subpages.
+
+= Introduction =
+
+A number of charitable institutions are using this Hurricane Sandy Disaster Response system to coordinate relief efforts.
+
+
+= Details =
+
