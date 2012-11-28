@@ -1,0 +1,14 @@
+#summary Instructions for testing the application locally.
+
+= Introduction =
+
+Making code changes and testing them locally requires a few steps. The primary complications are 'compiling' the Javascript and using the correct App Engine settings.
+
+
+= Details =
+
+  * Install Google App Engine for Python 2.7.
+  * Install Subversion.
+  * Download the repository, following the directions on the source page.
+  * When modifying the Javascript, it is necessary to run ./compile.sh in the main directory before the changes are visible.
+  * Run the App Engine development server with --high_replication.
