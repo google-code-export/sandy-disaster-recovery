@@ -12,3 +12,4 @@ Making code changes and testing them locally requires a few steps. The primary c
   * Download the repository, following the directions on the source page.
   * When modifying the Javascript, it is necessary to run ./compile.sh in the main directory before the changes are visible.
   * Run the App Engine development server with --high_replication.
+  * Visit the url localhost:8080/refresh_counties to prepare the cached county list. (this is a temporary hack)
