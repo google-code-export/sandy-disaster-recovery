@@ -2,4 +2,4 @@
 
 = Tutorials =
   * Using Subversion (SVN) with Google Code on Windows (with TortoiseSVN): http://mzaher.wordpress.com/2009/03/02/how-to-use-svn-with-google-code/
-  * Using git with Google Code SVN repo ({{{git svn}}}): http://google-opensource.blogspot.co.uk/2008/05/develop-with-git-on-google-code-project.html
+  * Using git with a Google Code SVN repository ({{{git svn}}}): http://google-opensource.blogspot.co.uk/2008/05/develop-with-git-on-google-code-project.html
